@@ -17,6 +17,7 @@ Each example project is contained within its own directory here. Each also
 contains their own README file that provides additional details.
 
 - [01 Console App](./01-console-app/)
+- [02 Web App](./02-server/)
 
 
 # Resources
